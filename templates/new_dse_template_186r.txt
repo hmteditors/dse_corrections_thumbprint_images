@@ -1,0 +1,11 @@
+urn:cite2:hmt:va_dse.v1:schol5230#DSE record for scholion msA 14.H11#urn:cts:greekLit:tlg5026.msA.dipl:14.H11#urn:cite2:hmt:vaimg.2017a:VA186RN_0357@NEWROI#urn:cite2:hmt:msA.v1:186r
+urn:cite2:hmt:va_dse.v1:schol5231#DSE record for scholion msA 14.H12#urn:cts:greekLit:tlg5026.msA.dipl:14.H12#urn:cite2:hmt:vaimg.2017a:VA186RN_0357@NEWROI#urn:cite2:hmt:msA.v1:186r
+urn:cite2:hmt:va_dse.v1:schol5232#DSE record for scholion msA 14.H13#urn:cts:greekLit:tlg5026.msA.dipl:14.H13#urn:cite2:hmt:vaimg.2017a:VA186RN_0357@NEWROI#urn:cite2:hmt:msA.v1:186r
+urn:cite2:hmt:va_dse.v1:schol5326#DSE record for scholion msAim 14.H3#urn:cts:greekLit:tlg5026.msAim.dipl:14.H3#urn:cite2:hmt:vaimg.2017a:VA186RN_0357@NEWROI#urn:cite2:hmt:msA.v1:186r
+urn:cite2:hmt:va_dse.v1:schol5327#DSE record for scholion msAim 14.H4#urn:cts:greekLit:tlg5026.msAim.dipl:14.H4#urn:cite2:hmt:vaimg.2017a:VA186RN_0357@NEWROI#urn:cite2:hmt:msA.v1:186r
+urn:cite2:hmt:va_dse.v1:schol5386#DSE record for scholion msAint 14.H2#urn:cts:greekLit:tlg5026.msAint.dipl:14.H2#urn:cite2:hmt:vaimg.2017a:VA186RN_0357@NEWROI#urn:cite2:hmt:msA.v1:186r
+urn:cite2:hmt:va_dse.v1:schol5387#DSE record for scholion msAint 14.H3#urn:cts:greekLit:tlg5026.msAint.dipl:14.H3#urn:cite2:hmt:vaimg.2017a:VA186RN_0357@NEWROI#urn:cite2:hmt:msA.v1:186r
+urn:cite2:hmt:va_dse.v1:schol5388#DSE record for scholion msAint 14.H4#urn:cts:greekLit:tlg5026.msAint.dipl:14.H4#urn:cite2:hmt:vaimg.2017a:VA186RN_0357@NEWROI#urn:cite2:hmt:msA.v1:186r
+urn:cite2:hmt:va_dse.v1:schol5423#DSE record for scholion msAil 14.H3#urn:cts:greekLit:tlg5026.msAil.dipl:14.H3#urn:cite2:hmt:vaimg.2017a:VA186RN_0357@NEWROI#urn:cite2:hmt:msA.v1:186r
+urn:cite2:hmt:va_dse.v1:schol5424#DSE record for scholion msAil 14.H4#urn:cts:greekLit:tlg5026.msAil.dipl:14.H4#urn:cite2:hmt:vaimg.2017a:VA186RN_0357@NEWROI#urn:cite2:hmt:msA.v1:186r
+urn:cite2:hmt:va_dse.v1:schol5447#DSE record for scholion msAext 14.H1#urn:cts:greekLit:tlg5026.msAext.dipl:14.H1#urn:cite2:hmt:vaimg.2017a:VA186RN_0357@NEWROI#urn:cite2:hmt:msA.v1:186r

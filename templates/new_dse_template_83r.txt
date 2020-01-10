@@ -1,0 +1,42 @@
+urn:cite2:hmt:va_dse.v1:schol2572#DSE record for scholion msA 6.36#urn:cts:greekLit:tlg5026.msA.dipl:6.36#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:schol2573#DSE record for scholion msA 6.37#urn:cts:greekLit:tlg5026.msA.dipl:6.37#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:schol2574#DSE record for scholion msA 6.38#urn:cts:greekLit:tlg5026.msA.dipl:6.38#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:schol2575#DSE record for scholion msA 6.39#urn:cts:greekLit:tlg5026.msA.dipl:6.39#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:schol2576#DSE record for scholion msA 6.40#urn:cts:greekLit:tlg5026.msA.dipl:6.40#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:schol2577#DSE record for scholion msA 6.41#urn:cts:greekLit:tlg5026.msA.dipl:6.41#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:schol2578#DSE record for scholion msA 6.43#urn:cts:greekLit:tlg5026.msA.dipl:6.43#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:schol2579#DSE record for scholion msA 6.44#urn:cts:greekLit:tlg5026.msA.dipl:6.44#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:schol2580#DSE record for scholion msA 6.45#urn:cts:greekLit:tlg5026.msA.dipl:6.45#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:schol2581#DSE record for scholion msA 6.46#urn:cts:greekLit:tlg5026.msA.dipl:6.46#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:schol2582#DSE record for scholion msA 6.47#urn:cts:greekLit:tlg5026.msA.dipl:6.47#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:schol2583#DSE record for scholion msA 6.48#urn:cts:greekLit:tlg5026.msA.dipl:6.48#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:schol2584#DSE record for scholion msA 6.49#urn:cts:greekLit:tlg5026.msA.dipl:6.49#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:schol2585#DSE record for scholion msA 6.51#urn:cts:greekLit:tlg5026.msA.dipl:6.51#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:schol2586#DSE record for scholion msA 6.52#urn:cts:greekLit:tlg5026.msA.dipl:6.52#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:schol2772#DSE record for scholion msAil 6.285#urn:cts:greekLit:tlg5026.msAil.dipl:6.285#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3527#DSE record for Iliad 6.128#urn:cts:greekLit:tlg0012.tlg001.msA:6.128#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3528#DSE record for Iliad 6.129#urn:cts:greekLit:tlg0012.tlg001.msA:6.129#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3529#DSE record for Iliad 6.130#urn:cts:greekLit:tlg0012.tlg001.msA:6.130#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3530#DSE record for Iliad 6.131#urn:cts:greekLit:tlg0012.tlg001.msA:6.131#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3531#DSE record for Iliad 6.132#urn:cts:greekLit:tlg0012.tlg001.msA:6.132#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3532#DSE record for Iliad 6.133#urn:cts:greekLit:tlg0012.tlg001.msA:6.133#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3533#DSE record for Iliad 6.134#urn:cts:greekLit:tlg0012.tlg001.msA:6.134#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3534#DSE record for Iliad 6.135#urn:cts:greekLit:tlg0012.tlg001.msA:6.135#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3535#DSE record for Iliad 6.136#urn:cts:greekLit:tlg0012.tlg001.msA:6.136#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3536#DSE record for Iliad 6.137#urn:cts:greekLit:tlg0012.tlg001.msA:6.137#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3537#DSE record for Iliad 6.138#urn:cts:greekLit:tlg0012.tlg001.msA:6.138#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3538#DSE record for Iliad 6.139#urn:cts:greekLit:tlg0012.tlg001.msA:6.139#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3539#DSE record for Iliad 6.140#urn:cts:greekLit:tlg0012.tlg001.msA:6.140#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3540#DSE record for Iliad 6.141#urn:cts:greekLit:tlg0012.tlg001.msA:6.141#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3541#DSE record for Iliad 6.142#urn:cts:greekLit:tlg0012.tlg001.msA:6.142#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3542#DSE record for Iliad 6.143#urn:cts:greekLit:tlg0012.tlg001.msA:6.143#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3543#DSE record for Iliad 6.144#urn:cts:greekLit:tlg0012.tlg001.msA:6.144#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3544#DSE record for Iliad 6.145#urn:cts:greekLit:tlg0012.tlg001.msA:6.145#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3545#DSE record for Iliad 6.146#urn:cts:greekLit:tlg0012.tlg001.msA:6.146#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3546#DSE record for Iliad 6.147#urn:cts:greekLit:tlg0012.tlg001.msA:6.147#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3547#DSE record for Iliad 6.148#urn:cts:greekLit:tlg0012.tlg001.msA:6.148#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3548#DSE record for Iliad 6.149#urn:cts:greekLit:tlg0012.tlg001.msA:6.149#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3549#DSE record for Iliad 6.150#urn:cts:greekLit:tlg0012.tlg001.msA:6.150#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3550#DSE record for Iliad 6.151#urn:cts:greekLit:tlg0012.tlg001.msA:6.151#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3551#DSE record for Iliad 6.152#urn:cts:greekLit:tlg0012.tlg001.msA:6.152#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
+urn:cite2:hmt:va_dse.v1:il3552#DSE record for Iliad 6.153#urn:cts:greekLit:tlg0012.tlg001.msA:6.153#urn:cite2:hmt:vaimg.2017a:VA083RN_0255@NEWROI#urn:cite2:hmt:msA.v1:83r
