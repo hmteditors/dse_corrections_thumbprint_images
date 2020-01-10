@@ -1,5 +1,5 @@
 urn:cite2:hmt:va_dse.v1:schol5262#DSE record for scholion msA 14.D1#urn:cts:greekLit:tlg5026.msA.dipl:14.D1#urn:cite2:hmt:vaimg.2017a:VA188RN_0359@0.5822,0.2422,0.1971,0.06058#urn:cite2:hmt:msA.v1:188r
-urn:cite2:hmt:va_dse.v1:schol5263#DSE record for scholion msA 14.D2#urn:cts:greekLit:tlg5026.msA.dipl:14.D2#urn:cite2:hmt:vaimg.2017a:VA188RN_0359@NEWROI#urn:cite2:hmt:msA.v1:188r
+urn:cite2:hmt:va_dse.v1:schol5263#DSE record for scholion msA 14.D2#urn:cts:greekLit:tlg5026.msA.dipl:14.D2#urn:cite2:hmt:vaimg.2017a:VA188RN_0359@0.5759,0.3008,0.2067,0.2595#urn:cite2:hmt:msA.v1:188r
 urn:cite2:hmt:va_dse.v1:schol5264#DSE record for scholion msA 14.D3#urn:cts:greekLit:tlg5026.msA.dipl:14.D3#urn:cite2:hmt:vaimg.2017a:VA188RN_0359@NEWROI#urn:cite2:hmt:msA.v1:188r
 urn:cite2:hmt:va_dse.v1:schol5265#DSE record for scholion msA 14.D4#urn:cts:greekLit:tlg5026.msA.dipl:14.D4#urn:cite2:hmt:vaimg.2017a:VA188RN_0359@NEWROI#urn:cite2:hmt:msA.v1:188r
 urn:cite2:hmt:va_dse.v1:schol5266#DSE record for scholion msA 14.D5#urn:cts:greekLit:tlg5026.msA.dipl:14.D5#urn:cite2:hmt:vaimg.2017a:VA188RN_0359@NEWROI#urn:cite2:hmt:msA.v1:188r
